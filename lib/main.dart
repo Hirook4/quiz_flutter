@@ -71,7 +71,7 @@ class _QuizAppState extends State<QuizApp> {
     return MaterialApp(
         home: Scaffold(
       appBar: AppBar(
-        title: Center(child: Text('Quiz Star Wars Hirooka')),
+        title: Center(child: Text('Quiz Star Wars')),
       ),
       body: temPergunta
           ? Questionario(
