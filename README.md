@@ -2,6 +2,10 @@
 
 Um quiz desenvolvido utilizando Flutter
 
+![](Print1.png)
+
+![](Print2.png)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
